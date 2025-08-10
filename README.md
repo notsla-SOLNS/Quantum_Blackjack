@@ -15,3 +15,4 @@ Scope for further developments include:
   * make the house twist on Ace+6 initial hand
   * have a running win streak counter - special rewards at 5,10 wins etc.?
   * further implementations of Qiskit as new game mechanics/power-ups
+  * clean up code, add function explanations and comments to track the logic
